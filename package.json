@@ -12,6 +12,8 @@
         "jest": "^24.9.0"
     },
     "dependencies": {
+        "inquirer": "^8.2.4",
+        "inquirer-maxlength-input-prompt": "^1.0.2",
         "install": "^0.13.0"
     }
 }
