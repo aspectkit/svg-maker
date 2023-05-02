@@ -14,6 +14,7 @@ The application is covered under the [MIT](https://github.com/kitdhing/readme-ge
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Video](#video)
 
 
 ## Description
