@@ -33,7 +33,7 @@ N/A
 type "npm run test" in the command line
 
 ## Questions
-https://github.com/kitdhing\
+https://github.com/kitdhing
 dhinkit@gmail.com
 
 ## Video
