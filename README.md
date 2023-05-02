@@ -37,4 +37,7 @@ dhinkit@gmail.com
 
 ## Video
 
-![video](/svgmaker.mp4)
+
+https://user-images.githubusercontent.com/106041120/235568500-fc6f59d5-fed8-498a-b1fc-8b765f9613b3.mp4
+
+
